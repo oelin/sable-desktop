@@ -1,0 +1,14 @@
+{
+  "name": "sable-desktop",
+  "version": "1.0.0",
+  "description": "Sable for desktop, built using Electron.",
+  "main": "app/main.js",
+  "author": "oelin",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^22.1.0"
+  }
+}
